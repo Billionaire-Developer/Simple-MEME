@@ -1,0 +1,27 @@
+div{
+    background-color: black;
+    justify-content: center;
+    width: 60%;
+}
+img{
+    padding: 10px;
+    margin-left: 50px;
+    align-items: center;
+}
+h1{
+    color: #fff;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+p{
+    color: #fff;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+}
